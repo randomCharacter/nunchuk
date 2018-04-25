@@ -1,4 +1,9 @@
 # Nunchuk  I<sup>2</sup>C drajver za Raspberry Pi
+## 0. Autori
+[Igor Ilić](http://github.com/dexters1)  
+[Kosta Svrdlan](http://github.com/goust6)  
+[Mario Perić](http://github.com/randomCharacter)  
+
 ## 1.  Uvod
   
 ### 1.1  Wii Nunchuk
